@@ -4,7 +4,7 @@
  * Use C to calculate complex mathematical expressions.
  */
 
-//dsfs jkk
+//dsfs jkk k
 
 //Declaring Functions
 double inverseFactorial(int n);
