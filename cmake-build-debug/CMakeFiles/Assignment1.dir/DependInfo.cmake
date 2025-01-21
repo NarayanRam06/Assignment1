@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Narayan Ramachandran/Downloads/Assignment1/apsc142assign1.c" "CMakeFiles/Assignment1.dir/apsc142assign1.c.obj" "gcc" "CMakeFiles/Assignment1.dir/apsc142assign1.c.obj.d"
+  "C:/Users/Narayan Ramachandran/CLionProjects/APSC142/Assignment1/apsc142assign1.c" "CMakeFiles/Assignment1.dir/apsc142assign1.c.obj" "gcc" "CMakeFiles/Assignment1.dir/apsc142assign1.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
